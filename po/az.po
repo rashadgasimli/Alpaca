@@ -1,7 +1,7 @@
 # Azerbaijani translations for Alpaca package.
 # Copyright (C) 2024 Jeffry Samuel Eduarte Rojas
 # This file is distributed under the same license as the Alpaca package.
-# YOUR NAME <YOUR EMAIL (optional)>, 2024.
+# Rəşad Qasımlı <rashadgasimli2@proton.me>, 2024.
 #
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-10 21:26-0600\n"
 "PO-Revision-Date: 2024-08-11 01:45-0600\n"
-"Last-Translator: YOUR NAME <YOUR EMAIL (optional)>\n"
+"Last-Translator: Rəşad Qasımlı <rashadgasimli2@proton.me>\n"
 "Language-Team: Azerbaijani\n"
 "Language: az\n"
 "MIME-Version: 1.0\n"
